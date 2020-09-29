@@ -1,4 +1,4 @@
-<h1 align="center">Discord.py 1강에 오신것을 환영해요!</h1>
+<h1 align="center">Discord.py 2강에 오신것을 환영해요!</h1>
 
 > [디스코드](https://discord.gg/yXRcbqb), [사이트](https://happytree.cf/), [이메일](mailto:happytree0418@twicefan.ga)
 
