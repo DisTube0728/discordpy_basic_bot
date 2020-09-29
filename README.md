@@ -23,5 +23,6 @@
     + 비공식 한국 도큐 : https://discordpy.cpbu.xyz/
 ------------
 ## Discord.py 강의 목록
-+ [1강](https://github.com/samsunghappytree/python-discord-bot/tree/master/1%EA%B0%95)
++ [1강](1강/)
++ [2강](2강/)
 ------------
