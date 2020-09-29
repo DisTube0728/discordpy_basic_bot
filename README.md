@@ -3,7 +3,7 @@
 > [디스코드](https://discord.gg/yXRcbqb), [사이트](https://happytree.cf/), [이메일](mailto:happytree0418@twicefan.ga)
 
 ## 강의 제작자
-**Mail : [happytree0418@twicefan.ga](mailto:happytree0418@twicefan.ga), Discord : [삼성해피트리#7612](https://discord.com/users/726350177601978438)**
+**Mail : [happytree0418@twicefan.ga](mailto:happytree0418@twicefan.ga), Discord : [Happytree Samsung#7612](https://discord.com/users/726350177601978438)**
 > **무단 도용 금지. 이 강의를 따라할때는 상관 없지만, 강의를 배껴가는것은 출처를 남겨주세요.**
 > **저작권은 삼성해피트리에게 있습니다. 문의는 [happytree0418@twicefan.ga](mailto:happytree0418@twicefan.ga)으로 해주세요.**
 ------------
