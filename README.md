@@ -22,6 +22,9 @@
     + 공식 영문 도큐 : https://discordpy.readthedocs.io/en/latest/
     + 비공식 한국 도큐 : https://discordpy.cpbu.xyz/
 ------------
+## 기여 안내
++ 기여를 하시려면 PR을 넣어주세요.
+------------
 ## Discord.py 강의 목록
 + [1강](1강/)
 + [2강](2강/)
