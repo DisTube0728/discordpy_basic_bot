@@ -1,11 +1,11 @@
 <h1 align="center">Discord.py 1강에 오신것을 환영해요!</h1>
 
-> [디스코드](https://discord.gg/yXRcbqb), [사이트](https://happytree.cf/), [이메일](mailto:happytree0418@twicefan.ga)
+> [디스코드](https://discord.gg/7npaMJf), [사이트](https://happytree.cf/), [이메일](mailto:samsunghappytree123@naver.com)
 
 ## 강의 제작자
-**Mail : [happytree0418@twicefan.ga](mailto:happytree0418@twicefan.ga), Discord : [삼성해피트리#7612](https://discord.com/users/726350177601978438)**
+**Mail : [samsunghappytree123@naver.com](mailto:samsunghappytree123@naver.com)), Discord : [Happytree Samsung#7612](https://discord.com/users/726350177601978438)**
 > **무단 도용 금지. 이 강의를 따라할때는 상관 없지만, 강의를 배껴가는것은 출처를 남겨주세요.**
-> **저작권은 삼성해피트리에게 있습니다. 문의는 [happytree0418@twicefan.ga](mailto:happytree0418@twicefan.ga)으로 해주세요.**
+> **저작권은 삼성해피트리에게 있습니다. 문의는 [samsunghappytree123@naver.com](mailto:samsunghappytree123@naver.com)으로 해주세요.**
 ------------
 
 ## 1강은 프로그램 설치와 관련된 강의입니다!
@@ -28,7 +28,7 @@
 
 ## Discord.py 봇 강의를 보기 전 참고해주세요!
 + 단순하게 따라하려고 하지 마시고, 원리를 파악해보세요.
-+ 궁금한점은 구글링을 해보신 후, [봇 강의 서버](https://discord.gg/jSaWtTD)에서 말씀해주세요.
++ 궁금한점은 구글링을 해보신 후, [봇 강의 서버](https://discord.gg/7npaMJf)에서 말씀해주세요.
 + 오타 또는 오류는 깃허브 이슈로 생성해주세요.
 
 ------------
