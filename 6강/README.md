@@ -9,7 +9,7 @@
 ------------
 
 ## 6강에서는 f-string을 알아볼꺼에요!
-> [5강 바로가기](https://blog.naver.com/samsunghappytree123/221976607052)
+> [6강 바로가기](https://blog.naver.com/samsunghappytree123/221976607052)
 
 > [유튜브 강의 바로가기](https://youtu.be/QeqdBxp-dk4)
 
