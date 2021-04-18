@@ -20,7 +20,7 @@
 + 질문 하시기 전에 구글링을 미리해주세요.(영문으로요) 대부분의 답은 구글에 있습니다.
 + 도큐먼트를 확인해보세요. 
     + 공식 영문 도큐 : https://discordpy.readthedocs.io/en/latest/
-    + 비공식 한국 도큐 : https://discordpy.cpbu.xyz/
+    + 비공식 한국 도큐 : https://discordpy-ko.github.io
 ------------
 ## 기여 안내
 + 기여를 하시려면 PR을 넣어주세요.
