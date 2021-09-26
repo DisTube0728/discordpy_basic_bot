@@ -1,3 +1,8 @@
+# ⚠ 주의 사항
+7강은 현재 재작성중입니다. 불편을 드려 죄송합니다.
+
+---
+
 <h1 align="center">Discord.py 7강에 오신것을 환영해요!</h1>
 
 > [디스코드](https://discord.gg/7npaMJf), [사이트](https://devht.xyz/), [이메일](mailto:samsunghappytree123@naver.com)
